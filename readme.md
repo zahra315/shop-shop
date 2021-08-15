@@ -16,10 +16,10 @@ Shop Shop is an e-commerce application that allows users to shop for various ite
 
 ## Technologies:
 
-Redux
-ReactJS
-MongoDB
-NodeJS
+- Redux
+- ReactJS
+- MongoDB
+- NodeJS
 
 ## Usage:
 
