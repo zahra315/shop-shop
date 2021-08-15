@@ -25,7 +25,7 @@ Shop Shop is an e-commerce application that allows users to shop for various ite
 
 This application allows to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history.
 
-[Redux Store (Heroku App)](https://warm-escarpment-28949.herokuapp.com/)
+[Redux Store (Heroku App)](https://secure-plains-90232.herokuapp.com/)
 
 ![](srceenshot/22-state-homework-demo-01.gif)
 ![](srceenshot/22-state-homework-demo-02.gif)
